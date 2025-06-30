@@ -10,5 +10,6 @@ The game continues until the player makes an incorrect guess, at which point the
    ```
   open simonSays.html and enjoy the game
    
-## Screenshot
-![Screenshot (121)](https://github.com/user-attachments/assets/58401543-0f29-4e77-ac3c-c526207dbba1)
+## Screenshot![Screenshot (121)](https://github.com/user-attachments/assets/691d97a3-7427-4c35-8a96-93d07825671a)
+
+
